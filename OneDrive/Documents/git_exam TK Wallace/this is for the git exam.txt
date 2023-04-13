@@ -2,4 +2,8 @@ This is for the git exam! #oy
 we will be modifying this text file to show we know how to use git
 this is just a test
 i added this line
+<<<<<<< HEAD
 this line is to verify that after the change to ssh the push still works
+=======
+this line is to verify that after the change to ssh the push still works! # TK
+>>>>>>> f3992a79034429b3071e4a3af99fd872010598eb
