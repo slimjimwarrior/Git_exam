@@ -1,4 +1,4 @@
-this is for the git exam
+This is for the git exam
 we will be modifying this text file to show we know how to use git
 this is just a test
 i added this line
